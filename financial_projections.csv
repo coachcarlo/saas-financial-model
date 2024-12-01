@@ -11,8 +11,3 @@ Month,Individual Customers,Team Customers,Enterprise Customers,MRR ($),Marketing
 24,120,25,4,45000,5000,6000,34000
 30,160,35,5,65000,6000,7000,52000
 36,200,45,6,83333,7000,8000,68333
-
-Notes:
-Individual Coach Tier: $159/month
-Team/Growth Tier: $399/month
-Enterprise Tier: Starting at $2,000/month
