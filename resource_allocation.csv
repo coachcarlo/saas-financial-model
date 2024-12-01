@@ -1,0 +1,12 @@
+Month,Development %,Marketing %,Customer Support %,Sales %,Admin %
+1-3,60,20,10,5,5
+4-6,40,30,15,10,5
+7-12,30,35,20,10,5
+13+,25,35,20,15,5
+
+Key Tools for Automation:
+- Development: GitHub, CI/CD Tools
+- Marketing: Buffer/Hootsuite, MailChimp
+- Support: Intercom/Crisp
+- Sales: Pipedrive/HubSpot Free
+- Admin: QuickBooks, Stripe
